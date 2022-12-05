@@ -1,1 +1,1 @@
-12-newest_files
+18-letteronly
