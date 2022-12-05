@@ -1,1 +1,1 @@
-18-letteronly
+101-gifs
